@@ -1,0 +1,40 @@
+.a{
+	background-color: #000080;
+	color: white;
+	height: 150px;
+	width: 100;
+	padding: 5px  20px  20px  30px;	
+}
+.b{
+	background-color: #FFA500;
+
+	height: 150px;
+	width: 100;
+	padding: 5px  20px  20px  30px;	
+}
+.c{
+	background-color: #3CB371;	
+	height: 150px;
+	width: 100;
+	padding: 5px  20px  20px  30px;	
+}
+
+#aa{
+	font:bold;
+	text-align: center;
+	width: 65px;
+	background-color: #6495ED;
+}
+#bb{
+	font:bold;
+	text-align: center;
+	width: 65px;
+	background-color: #FFD700;
+}
+#cc{
+	text-align: center;
+	font:bold;
+	width: 65px;
+	background-color: 	#ADFF2F;
+	
+}

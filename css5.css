@@ -1,0 +1,18 @@
+div{
+	background: #000080;
+	padding: 20px 20px 20px 20px;
+	border-style:solid;
+	border-color: 	#FF8C00;
+	border-width: 10px;
+	margin: 50px 50px 50px 50px;
+	font-size: 20px;
+	color: 	#F8F8FF;
+}
+h1{
+	width: 220px;
+	background: #0000CD;
+
+}
+span{
+	color: #FFD700;
+}
